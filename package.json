@@ -1,6 +1,6 @@
 {
   "name": "generate-rgb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate an RGB color string",
   "license": "MIT",
   "repository": "arthurvr/generate-rgb",
