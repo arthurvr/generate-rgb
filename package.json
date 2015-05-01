@@ -1,0 +1,34 @@
+{
+  "name": "generate-rgb",
+  "version": "0.0.0",
+  "description": "Generate an RGB color string",
+  "license": "MIT",
+  "repository": "arthurvr/generate-rgb",
+  "author": {
+    "name": "Arthur Verschaeve",
+    "email": "contact@arthurverschaeve.be",
+    "url": "arthurverschaeve.be"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "rgb",
+    "color",
+    "css",
+    "generate",
+    "red",
+    "green",
+    "blue"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
