@@ -17,6 +17,13 @@ var generateRgb = require('generate-rgb');
 
 generateRgb(0, 255, 255);
 //=> 'rgb(0, 255, 255)'
+
+generateRgb({
+	red: 0,
+	green: 255,
+	blue: 255
+});
+//=> 'rgb(0, 255, 255)'
 ```
 
 
