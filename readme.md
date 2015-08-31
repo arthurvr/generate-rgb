@@ -52,6 +52,15 @@ Type: `number`
 
 A number between 0 and 255 which represents the amount of blue.
 
+### generateRgb(object)
+
+#### object
+
+*Required*  
+Type: `object`
+
+Object with `red`, `green` and `blue` keys.
+
 
 ## Related
 
