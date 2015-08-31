@@ -33,31 +33,30 @@ generateRgb({
 
 #### red
 
-*required*
-
-type: `number`
+*Required*  
+Type: `number`
 
 A number between 0 and 255 which represents the amount of red.
 
 #### green
 
-*required*
-
-type: `number`
+*Required*  
+Type: `number`
 
 A number between 0 and 255 which represents the amount of green.
 
 #### blue
 
-*required*
-
-type: `number`
+*Required*  
+Type: `number`
 
 A number between 0 and 255 which represents the amount of blue.
+
 
 ## Related
 
 * [parse-rgb](https://github.com/arthurvr/parse-rgb)
+
 
 ## License
 
