@@ -13,7 +13,7 @@ $ npm install --save generate-rgb
 ## Usage
 
 ```js
-var generateRgb = require('generate-rgb');
+const generateRgb = require('generate-rgb');
 
 generateRgb(0, 255, 255);
 //=> 'rgb(0, 255, 255)'
